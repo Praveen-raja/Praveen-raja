@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My self Praveen kumar Raj**
+**I am Praveen**
 
 I'm a self-taught developer & cybersecurity researcher!
 
