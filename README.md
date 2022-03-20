@@ -14,3 +14,5 @@ I'm a self-taught developer & cybersecurity researcher!
 - BugBounty
 
 [![praveen-raja stats](https://github-readme-stats.vercel.app/api?username=praveen-raja&show_icons=true&theme=onedark&count_private=true)](https://github.com/praveen-raja)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-raja)](https://github.com/anuraghazra/github-readme-stats)
