@@ -13,4 +13,4 @@ I'm a self-taught developer & cybersecurity researcher!
 - OSINT
 - BugBounty
 
-[![praveen-raja stats](https://github-readme-stats.vercel.app/api?username=praveen-raja&show_icons=true&theme=onedark)](https://github.com/praveen-raja)
+<!-- [![praveen-raja stats](https://github-readme-stats.vercel.app/api?username=praveen-raja&show_icons=true&theme=onedark)](https://github.com/praveen-raja) -->
