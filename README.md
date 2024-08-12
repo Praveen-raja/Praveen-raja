@@ -2,7 +2,7 @@
 ---
 **I am Praveen**
 
-I'm a self-taught developer & cybersecurity researcher!
+I'm a Java developer & self-taught cybersecurity researcher!
 
 **Passinate about**
 
